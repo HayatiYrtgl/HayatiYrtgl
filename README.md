@@ -3,9 +3,15 @@
 - 🌱 I’m currently learning AI, ML, Dart.
 - 📫 How to reach me hayatiyurtoglu71@gmail.com
 
-- | PYPI Projects  | URLS|
--| ------------- | ------------- |
--| Pretty-Data  | [url](https://pypi.org/project/pretty-data/) |
+| Header    | Heading |
+| --------- | ------- |
+| first     |         |
+|           |         |
+|           |         |
+|           |         |
+|           |         |
+|           |         |
+|           |         |
 
 
 <!---
