@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HayatiYrtgl
 - 👀 I’m interested in Python,Batch,Sql,Kali Linux,Web scraping, Ml, Aı 
-- 🌱 I’m currently learning Batch, Python, Sql, and everything about software
+- 🌱 I’m currently learning AI, ML, Dart.
 - 📫 How to reach me hayatiyurtoglu71@gmail.com
 
 <!---
