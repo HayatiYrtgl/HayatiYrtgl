@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQu9YnI8w42uMBkp6ifFjjAmGuqe61i7MXETxUdvfz4tHXQp12ApsaMk4Rw5W45FHYoY&usqp=CAU)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQu9YnI8w42uMBkp6ifFjjAmGuqe61i7MXETxUdvfz4tHXQp12ApsaMk4Rw5W45FHYoY&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Hayati</h1>
 <h3 align="center">An AI and Ml developer</h3>
 
