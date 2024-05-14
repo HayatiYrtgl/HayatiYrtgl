@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F659%2F699%2FHD-wallpaper-python-amoled-coding-coding-dark-dark-programming-python-sky-universe.jpg&tbnid=96MncdsIE3YZrM&vet=12ahUKEwixvMzbyYyGAxWkCxAIHcPlC8UQMygDegQIARBk..i&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-gtyto&docid=iNQvgLDFJsowWM&w=800&h=450&q=python%20wallpaper%201920x1080&ved=2ahUKEwixvMzbyYyGAxWkCxAIHcPlC8UQMygDegQIARBk)
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F659%2F699%2FHD-wallpaper-python-amoled-coding-coding-dark-dark-programming-python-sky-universe.jpg&tbnid=96MncdsIE3YZrM&vet=12ahUKEwixvMzbyYyGAxWkCxAIHcPlC8UQMygDegQIARBk..i&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-gtyto&docid=iNQvgLDFJsowWM&w=800&h=450&q=python%20wallpaper%201920x1080&ved=2ahUKEwixvMzbyYyGAxWkCxAIHcPlC8UQMygDegQIARBk)
 <h1 align="center">Hi 👋, I'm Hayati</h1>
 <h3 align="center">An AI and Ml developer</h3>
 
